@@ -17,7 +17,10 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../images/bkg3.png") 0 0;
+  background: $body-background url("../images/Abstract_Art_Dark.jpg") 0 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   color: $body-foreground;
   font-size: 26px;
   line-height: 1.5;
