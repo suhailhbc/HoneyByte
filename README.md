@@ -1,1 +1,1 @@
-Built using GitHub Pages
+Static HTML website www.honeybyte.in built using GitHub Pages.
