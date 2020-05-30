@@ -68,7 +68,7 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
-  font-family: "Times New Roman", Verdana, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Ubuntu, "Times New Roman", Verdana, "Bitstream Vera Sans Mono", "Lucida Console", Monospace;
   color: $conifer;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -110,7 +110,7 @@ section img {
 
 h1, h2, h3, h4, h5 {
   font-weight: normal;
-  font-family: "Times New Roman", Verdana, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Ubuntu, "Times New Roman", Verdana, "Bitstream Vera Sans Mono", "Lucida Console", Monospace;
   color: #FFD700;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
