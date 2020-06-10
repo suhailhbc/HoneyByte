@@ -24,7 +24,7 @@ body {
   color: #FFF;
   font-size: 26px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Monospace, "Maven Pro", Ubuntu, Verdana, Arial;
 }
 
 /* General & 'Reset' Stuff */
@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5 {
   color: #999;
   margin: 0 0 5px 0;
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Monospace, "Maven Pro", Ubuntu, Verdana, Arial;
 }
 
 dt {
